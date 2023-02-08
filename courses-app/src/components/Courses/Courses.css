@@ -1,0 +1,19 @@
+.courses {
+	border: 1px rgb(65, 163, 255) solid;
+	padding: 30px;
+	margin: 0 20px;
+}
+
+.courses__block {
+	max-width: 80vw;
+	margin: 0 auto;
+}
+
+.courseCard__list {
+	padding: 0;
+}
+
+.buttons__block {
+	display: flex;
+	justify-content: space-between;
+}

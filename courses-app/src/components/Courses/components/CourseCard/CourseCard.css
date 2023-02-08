@@ -1,0 +1,16 @@
+.courseCard__item {
+	display: flex;
+  border: 1px #619475 solid;
+	padding: 30px;
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+.block__text {
+	width: 70%;
+	margin-right: 20px;
+}
+
+.block__info {
+	width: 30%;
+}

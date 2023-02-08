@@ -1,0 +1,23 @@
+.courseInfo__block {
+	max-width: 100%;
+	border: 1px rgb(65, 163, 255) solid;
+	padding: 30px;
+	margin: 0 20px;
+}
+
+.data {
+	display: flex;
+}
+
+.course__text-block {
+	max-width: 60%;
+	margin-right: 20px;
+}
+
+p {
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+}

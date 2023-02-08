@@ -1,0 +1,16 @@
+[
+	{
+		"name": null,
+		"email": "admin@email.com",
+		"password": "admin123",
+		"role": "admin",
+		"id": "85aa767d-73c0-4e23-9a02-27902d418b37"
+	},
+	{
+		"name": "Test User",
+		"email": "user@email.com",
+		"password": "user123",
+		"role": "user",
+		"id": "f1e5fd00-803f-4cc3-893c-37a88fc330fc"
+	}
+,{"name":"assassaas@email.com","email":"assassaas@email.com","password":"assassaas@email.com","role":"user","id":"1ee629eb-9097-41e7-9f3d-275358f4bd53"},{"name":"gfhgjhkbhgj@fgf.gj","email":"gfhgjhkbhgj@fgf.gj","password":"gfhgjhkbhgj@fgf.gj","role":"user","id":"5c11fc88-5f0d-4eb5-a260-e1d24c2bdff9"},{"name":"asasasassa@dds.a","email":"dasasasassa@dds.ad","password":"dasasasassa@dds.ad","role":"user","id":"ba204cfc-087f-4e46-bd09-ec68a736bf7f"},{"name":"qwwqwq","email":"wqwqwqwq@dffd.fdfd","password":"wqwqwqwq@dffd.fdfd","role":"user","id":"e6806fa5-b0ac-45ed-91f1-82a87c088380"}]

@@ -1,0 +1,21 @@
+[
+	{
+		"title": "title",
+		"description": "description",
+		"creationDate": "9/3/2021",
+		"duration": 30,
+		"authors": [],
+		"id": "66cc289e-6de9-49b2-9ca7-8b4f409d6467"
+	},
+	{
+		"title": "Some course",
+		"description": "Desc",
+		"duration": 15,
+		"authors": [
+			"3e57c483-66fd-4ea4-88d9-5249fb27bd90",
+			"27cc3006-e93a-4748-8ca8-73d06aa93b6d"
+		],
+		"creationDate": "17/12/2022",
+		"id": "89504f1b-e8be-488b-b27e-dce565222a25"
+	}
+]

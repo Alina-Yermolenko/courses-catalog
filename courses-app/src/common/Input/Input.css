@@ -1,0 +1,16 @@
+label {
+	margin-bottom: 10px;
+}
+
+.input {
+  border: 1px #d8bea0 solid;
+	padding: 10px 20px;
+	width: 270px;
+	outline: none;
+	margin-bottom: 10px;
+}
+
+.input__block {
+	display: flex;
+	flex-direction: column;
+}
