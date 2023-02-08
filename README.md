@@ -11,7 +11,7 @@ This is an application for creating courses. This service should help regular pe
     git clone 'https://github.com/Alina-Yermolenko/courses-catalog.git'
     ```
 
-1. `cd courses-app-backend`
+1. `cd courses-app-backend-master`
 1. `npm i && npm start`
 
 Great! The server is running. Now about the frontend...
